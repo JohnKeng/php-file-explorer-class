@@ -4,11 +4,11 @@ FileExplorer
 Table of Contents
 -----------------
 
-1.  [Description](#a)
-2.  [Features](#b)
-3.  [Install script](#c)
-4.  [Methods](#d)
-5.  [Method return](#e)
+1.  [Description](#A)
+2.  [Features](#B)
+3.  [Install script](#C)
+4.  [Methods](#D)
+5.  [Method return](#E)
 
 A. Description
 --------------
